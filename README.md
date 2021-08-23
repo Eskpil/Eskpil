@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linus or Eskpil</h1>
 <h3 align="center">Learning | Graphql | React | Typescript Enthusiast.</h3>
 
-- 🔭 I’m currently working on my backend framework [penguin](https://github.com/Eskpil/penguin)
+- 🔭 I’m currently working on my own desktop environment [lychee](https://github.com/Eskpil/lychee)
 
 
 <h3 align="left">Languages and Tools:</h3>
