@@ -1,6 +1,6 @@
 # Hello!
 
-Hello, I am Linus. I *hate* Windows and I love learning. I also like programming, obviously. 
+Hello, I am Linus. I **hate** Windows and I love learning. I also like programming, obviously. 
 Right now I am learning about the low levels of the operating system. Like the
 compilers, kernels, runtimes, libc etc.
 
