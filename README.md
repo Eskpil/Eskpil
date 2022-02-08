@@ -4,6 +4,10 @@ Hello, I am Linus. I **hate** Windows and I love learning. I also like programmi
 Right now I am learning about the low levels of the operating system. Like the
 compilers, kernels, runtimes, libc etc.
 
+I can't endure frontend development so if I am to do anything with web it must be backend.
+I will pretty publicly express my hatred for the modern web, and no. Web3 is not the answer.
+You will probably be able to read about it soon.
+
 I use languages like:
 
 * Rust
