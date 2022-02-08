@@ -23,6 +23,6 @@ window spawning creating library called [Libtokyo](https://github.com/Eskpil/ang
 
 ## Stats
 
-<img align="left"   src="https://github-readme-stats.vercel.app/api/top-langs?username=eskpil&show_icons=true&locale=en&theme=gruvbox" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=eskpil&show_icons=true&locale=en&theme=gruvbox">
-<img aling="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eskpil&theme=gruvbox">
+<img align="left"   style="padding: 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=eskpil&show_icons=true&locale=en&theme=gruvbox" >
+<img align="center" style="padding: 0" src="https://github-readme-stats.vercel.app/api?username=eskpil&show_icons=true&locale=en&theme=gruvbox">
+<img align="center" style="padding: 0"src="https://github-readme-streak-stats.herokuapp.com/?user=eskpil&theme=gruvbox">
