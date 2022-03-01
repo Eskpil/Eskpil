@@ -19,9 +19,10 @@ I use languages like:
 ## What am i up too? 
 
 Since I am a lazy programmer I most likely wont update this so it is probably
-out of date in a couple of weeks/months. But right now I am working on a 
-programming language called [Natalie](https://github.com/Eskpil/natalie) and 
-window spawning creating library called [Libtokyo](https://github.com/Eskpil/angel).
+out of date in a couple of weeks/months. 
+
+A desktop environment for UNIX like operating systems:
+[Maren](https://github.com/Eskpil/maren.git)
 
 ## Stats
 
