@@ -15,6 +15,7 @@ I use languages like:
 * Cpp
 * Ruby
 * Bash
+* Go
 
 ## What am i up too? 
 
