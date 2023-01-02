@@ -1,12 +1,10 @@
 # Hello!
 
-Hello, I am Linus. I **hate** Windows and I love learning. I also like programming, obviously. 
+Hello, I am Linus. I **hate** Windows with a passion and I love learning. I also like programming, obviously. 
 Right now I am learning about the low levels of the operating system. Like the
-compilers, kernels, runtimes, libc etc.
-
-I can't endure frontend development so if I am to do anything with web it must be backend.
-I will pretty publicly express my hatred for the modern web, and no. Web3 is not the answer.
-You will probably be able to read about it soon.
+compilers, kernels, runtimes, libc etc. I am also fascinated by the
+incredible systems you are able to build with a programming language
+like go. The concurrency is very good.
 
 I use languages like:
 
@@ -22,8 +20,8 @@ I use languages like:
 Since I am a lazy programmer I most likely wont update this so it is probably
 out of date in a couple of weeks/months. 
 
-A desktop environment for UNIX like operating systems:
-[Maren](https://github.com/Eskpil/maren.git)
+Smarthome interface software. 
+[Maple](https://github.com/Eskpil/MapleOs.git)
 
 ## Stats
 
