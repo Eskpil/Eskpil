@@ -17,11 +17,7 @@ I use languages like:
 
 ## What am i up too? 
 
-Since I am a lazy programmer I most likely wont update this so it is probably
-out of date in a couple of weeks/months. 
-
-Smarthome interface software. 
-[Maple](https://github.com/Eskpil/MapleOs.git)
+I am currently exploring the capabilities of wayland and flutter.
 
 ## Stats
 
