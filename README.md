@@ -17,7 +17,7 @@ I use languages like:
 
 ## What am i up too? 
 
-I am currently doing a deep adventure into wayland and the possiblity of creating my own entierly custom desktop environment. [wayland-meta](https://github.com:Eskpil/wayland-meta)
+I am currently doing a deep adventure into wayland and the possiblity of creating my own entierly custom desktop environment. [wayland-meta](https://github.com/Eskpil/wayland-meta)
 
 ## Stats
 
